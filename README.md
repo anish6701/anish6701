@@ -1,6 +1,6 @@
  👋 Hi, I’m @anish6701
  👀 I’m interested in making visualizations and analyzing the given datasets for a better representation of the unorganized data
- 🌱 I’m currently learning Java programming and upgrading my python skills with some new projects to work on
+ 🌱 I’m currently learning Java programming with some new projects to work on
  📫 You can reach me out at uanish527@gmail.com 
 
 <!---
