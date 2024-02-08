@@ -1,9 +1,12 @@
- 👋 Hi, I’m @anish6701, Currently working as a software developer, Writing backend API's in python using fastapi framework. 
- 👀 I’m interested in making visualizations and analyzing the given datasets for a better representation of the unorganized data
- 🌱 I’m currently learning JavaScript
- 📫 You can reach me out at uanish527@gmail.com 
+ 👋 Hello, I am Anish Upadhyay, I am passionate about software development and data-driven solutions. With a solid understanding of Software Development Life Cycle principles, I specialize in crafting robust APIs using FastAPI framework.
+ 👀 From cleaning and transforming data using Python to design insightful dashboards using Python and Tableau
+ 🌱 I’m dedicated to uncover actionable insights.
+ 📫 You can reach me at uanish527@gmail.com 
+ #Python #Pandas #Tableau #MySQL #DataCleaning #Dashboard
 
 <!---
 anish6701/anish6701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
